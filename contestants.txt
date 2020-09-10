@@ -4,3 +4,4 @@ rituraj735 cli
 niveditamh21 web
 niveditamh21 cli
 Sangamesh26 web
+Sangamesh cli
