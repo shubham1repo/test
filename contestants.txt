@@ -12,3 +12,4 @@ akashrajkr cli
 Narayanbhat166 web
 Narayanbhat cli
 rituraj735 web
+rituraj735 cli
