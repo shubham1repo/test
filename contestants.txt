@@ -9,3 +9,5 @@ Born-to-shine web
 Born-to-shine cli
 akashrajkr web
 akashrajkr cli
+Narayanbhat166 web
+Narayanbhat cli
