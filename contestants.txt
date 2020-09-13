@@ -27,4 +27,4 @@ Gowtham-M1729 cli
 Shomikghosh web
 Shomikghosh cli
 harithsya24 web
-harithsya cli
+harithsya24 cli
