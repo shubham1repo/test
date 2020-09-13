@@ -41,3 +41,4 @@ vishalaadee web
 vishalaadee cli
 
 Jayeshvj web
+Jayeshvj cli
